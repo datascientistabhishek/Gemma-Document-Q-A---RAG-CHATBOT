@@ -7,5 +7,10 @@ This project implements a Question-Answering system using the Gemma-7b-it model 
 4. Streamlit-based user interface for easy interaction <br>
 # 🛠️ Installation
 1. Clone this repository: <br>
-` git clone[ https://github.com/datascientistabhishek/Gemma-Document-Q&A-RAG-CHATBOT.git](https://github.com/datascientistabhishek/Gemma-Document-Q-A---RAG-CHATBOT.git)` <br>
-`cdGemma-Document-Q&A-RAG-CHATBOT`
+` git clone https://github.com/datascientistabhishek/Gemma-Document-Q-A---RAG-CHATBOT.git` <br>
+`cd Gemma-Document-Q&A-RAG-CHATBOT`<br>
+2. Install the required packages:
+` pip install -r requirements.txt` <br>
+3. Set up your environment variables by Creating a .env file in the project root and add your API keys: <br>
+`GROQ_API_KEY=your_groq_api_key <br>
+GOOGLE_API_KEY=your_google_api_key`

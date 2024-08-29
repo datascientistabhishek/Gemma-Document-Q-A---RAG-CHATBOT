@@ -6,6 +6,6 @@ This project implements a Question-Answering system using the Gemma-7b-it model 
 3. RAG-based question answering using the Gemma-7b-it model <br>
 4. Streamlit-based user interface for easy interaction <br>
 # 🛠️ Installation
-1. Clone this repository:
-` git clone https://github.com/datascientistabhishek/Gemma-Document-Q&A-RAG-CHATBOT.git` <br>
+1. Clone this repository: <br>
+` git clone[ https://github.com/datascientistabhishek/Gemma-Document-Q&A-RAG-CHATBOT.git](https://github.com/datascientistabhishek/Gemma-Document-Q-A---RAG-CHATBOT.git)` <br>
 `cdGemma-Document-Q&A-RAG-CHATBOT`

@@ -29,4 +29,4 @@ This project implements a Question-Answering system using the Gemma-7b-it model 
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
 # Demo Vedio
-
+https://github.com/user-attachments/assets/ead3e3ae-3b18-4d08-8a92-5b65473ba12e

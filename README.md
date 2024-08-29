@@ -27,3 +27,6 @@ This project implements a Question-Answering system using the Gemma-7b-it model 
 2. Initialization of the document embedding is required only once per session. <br>
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+
+# Demo Vedio
+
